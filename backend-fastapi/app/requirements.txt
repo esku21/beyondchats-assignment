@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+SQLAlchemy
+pydantic
+pydantic-settings
+PyMySQL
+requests
+httpx
+beautifulsoup4
+lxml
+python-dotenv

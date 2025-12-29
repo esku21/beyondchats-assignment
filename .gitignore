@@ -1,0 +1,10 @@
+# Python backend
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Node/React frontend + script-node
+node_modules/
+dist/
+.env
